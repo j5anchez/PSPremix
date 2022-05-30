@@ -1,0 +1,15 @@
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\bin\Debug\net6.0\PSP01_PROYECTO_BIRTLH.exe
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\bin\Debug\net6.0\PSP01_PROYECTO_BIRTLH.deps.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\bin\Debug\net6.0\PSP01_PROYECTO_BIRTLH.runtimeconfig.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\bin\Debug\net6.0\PSP01_PROYECTO_BIRTLH.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\bin\Debug\net6.0\ref\PSP01_PROYECTO_BIRTLH.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\bin\Debug\net6.0\PSP01_PROYECTO_BIRTLH.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\obj\Debug\net6.0\PSP01_PROYECTO_BIRTLH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\obj\Debug\net6.0\PSP01_PROYECTO_BIRTLH.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\obj\Debug\net6.0\PSP01_PROYECTO_BIRTLH.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\obj\Debug\net6.0\PSP01_PROYECTO_BIRTLH.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\obj\Debug\net6.0\PSP01_PROYECTO_BIRTLH.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\obj\Debug\net6.0\ref\PSP01_PROYECTO_BIRTLH.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\obj\Debug\net6.0\PSP01_PROYECTO_BIRTLH.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\obj\Debug\net6.0\PSP01_PROYECTO_BIRTLH.genruntimeconfig.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PSP01_PROYECTO_BIRTLH\obj\Debug\net6.0\PSP01_PROYECTO_BIRTLH.csproj.AssemblyReference.cache

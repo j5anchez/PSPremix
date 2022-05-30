@@ -1,0 +1,8 @@
+abrimos el ejecutable del cliente ftp creado en c sharp por un lado y la carpeta del servidor ftp externo para ver qué sucede.
+ponemos cualkier cosa en usuario y password para ver como funciona el try catch de la conexion y muestra el mensaje de la excepcion FtpAuthenticationException o SocketException en caso de no encontrar el host.
+Finalmente introducimos bien los credenciales y le damos a conectar. Aparecen los archivos y carpetas listados del servidor ftp.
+Probamos a subir un fichero, le cambiamos el nombre de destino y metemos un email de confirmación. Tarda un rato pero cuando desaparece lo que hemos escrito confirma la subida. vamos al explorador, actualizamos la carpeta y vemos que aparece el archivo subido y renombrado. Luego iremos a ver los correos de confirmación.
+
+Ahora probamos a descargar un archivo y abrimos el desplegable, que tarda un rato en abrirse porque comprueba los archivos cuando clicas y aparecen solo los descargables, ficheros con alguna extension. seleccionamos el escritorio como ubicacion y metemos email de confirmacion. vemos ke llega y esta ok.
+
+ahora vamos a ver los 2 correos, primero el de subida con el nombre del archivo y el de descarga con el contenido del archivo. se puede hacer de las 2 formas.

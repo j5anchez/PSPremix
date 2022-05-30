@@ -1,0 +1,15 @@
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\bin\Debug\net6.0\PipeServerLocal.exe
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\bin\Debug\net6.0\PipeServerLocal.deps.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\bin\Debug\net6.0\PipeServerLocal.runtimeconfig.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\bin\Debug\net6.0\PipeServerLocal.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\bin\Debug\net6.0\ref\PipeServerLocal.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\bin\Debug\net6.0\PipeServerLocal.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\obj\Debug\net6.0\PipeServerLocal.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\obj\Debug\net6.0\PipeServerLocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\obj\Debug\net6.0\PipeServerLocal.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\obj\Debug\net6.0\PipeServerLocal.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\obj\Debug\net6.0\PipeServerLocal.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\obj\Debug\net6.0\PipeServerLocal.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\obj\Debug\net6.0\ref\PipeServerLocal.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\obj\Debug\net6.0\PipeServerLocal.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeServerLocal\obj\Debug\net6.0\PipeServerLocal.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PSP01_PROYECTO_BIRTLH/1.0.0": {
+        "runtime": {
+          "PSP01_PROYECTO_BIRTLH.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PSP01_PROYECTO_BIRTLH/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

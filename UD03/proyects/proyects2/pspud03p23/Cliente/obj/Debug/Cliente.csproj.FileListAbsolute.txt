@@ -1,0 +1,14 @@
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\bin\Debug\Cliente.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\bin\Debug\Cliente.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\bin\Debug\Utils.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\bin\Debug\Utils.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\obj\Debug\Cliente.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\obj\Debug\Cliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\obj\Debug\Cliente.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\obj\Debug\Cliente.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\Cliente\obj\Debug\Cliente.Form1.resources

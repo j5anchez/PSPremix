@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "b0bd26e4-814d-42c5-b879-bcd875191f9a": {
+      "ProjectGuid": "b0bd26e4-814d-42c5-b879-bcd875191f9a",
+      "DisplayName": "PSP01_PROYECTO_BIRTLH",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\bin\Debug\net6.0\Servidor7feb.exe
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\bin\Debug\net6.0\Servidor7feb.deps.json
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\bin\Debug\net6.0\Servidor7feb.runtimeconfig.json
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\bin\Debug\net6.0\Servidor7feb.dll
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\bin\Debug\net6.0\ref\Servidor7feb.dll
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\bin\Debug\net6.0\Servidor7feb.pdb
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\obj\Debug\net6.0\Servidor7feb.csproj.AssemblyReference.cache
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\obj\Debug\net6.0\Servidor7feb.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\obj\Debug\net6.0\Servidor7feb.AssemblyInfoInputs.cache
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\obj\Debug\net6.0\Servidor7feb.AssemblyInfo.cs
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\obj\Debug\net6.0\Servidor7feb.csproj.CoreCompileInputs.cache
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\obj\Debug\net6.0\Servidor7feb.dll
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\obj\Debug\net6.0\ref\Servidor7feb.dll
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\obj\Debug\net6.0\Servidor7feb.pdb
+c:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\7feb\Servidor7feb\obj\Debug\net6.0\Servidor7feb.genruntimeconfig.cache

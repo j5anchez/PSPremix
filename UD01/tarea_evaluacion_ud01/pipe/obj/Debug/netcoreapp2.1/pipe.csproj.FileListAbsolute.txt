@@ -1,0 +1,26 @@
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipe\bin\Debug\netcoreapp2.1\pipe.deps.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipe\bin\Debug\netcoreapp2.1\pipe.runtimeconfig.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipe\bin\Debug\netcoreapp2.1\pipe.runtimeconfig.dev.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipe\bin\Debug\netcoreapp2.1\pipe.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipe\bin\Debug\netcoreapp2.1\pipe.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.genruntimeconfig.cache
+c:\Users\34603\Desktop\trabajosDAM\PSP\Github\pipe\bin\Debug\netcoreapp2.1\pipe.deps.json
+c:\Users\34603\Desktop\trabajosDAM\PSP\Github\pipe\bin\Debug\netcoreapp2.1\pipe.runtimeconfig.json
+c:\Users\34603\Desktop\trabajosDAM\PSP\Github\pipe\bin\Debug\netcoreapp2.1\pipe.runtimeconfig.dev.json
+c:\Users\34603\Desktop\trabajosDAM\PSP\Github\pipe\bin\Debug\netcoreapp2.1\pipe.dll
+c:\Users\34603\Desktop\trabajosDAM\PSP\Github\pipe\bin\Debug\netcoreapp2.1\pipe.pdb
+c:\Users\34603\Desktop\trabajosDAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.csproj.AssemblyReference.cache
+c:\Users\34603\Desktop\trabajosDAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\34603\Desktop\trabajosDAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.AssemblyInfoInputs.cache
+c:\Users\34603\Desktop\trabajosDAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.AssemblyInfo.cs
+c:\Users\34603\Desktop\trabajosDAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.csproj.CoreCompileInputs.cache
+c:\Users\34603\Desktop\trabajosDAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.dll
+c:\Users\34603\Desktop\trabajosDAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.pdb
+c:\Users\34603\Desktop\trabajosDAM\PSP\Github\pipe\obj\Debug\netcoreapp2.1\pipe.genruntimeconfig.cache

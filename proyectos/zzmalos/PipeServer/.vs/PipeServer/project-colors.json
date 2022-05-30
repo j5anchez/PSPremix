@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d5d560c-acb9-44a2-a1ed-c8ac11f96436": {
+      "ProjectGuid": "2d5d560c-acb9-44a2-a1ed-c8ac11f96436",
+      "DisplayName": "PipeServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

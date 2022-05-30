@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d671ef2-1c3f-41d8-9f64-7859d7cdbd36": {
+      "ProjectGuid": "9d671ef2-1c3f-41d8-9f64-7859d7cdbd36",
+      "DisplayName": "PSP03_Socket_TCP2_Cliente",
+      "ColorIndex": 0
+    },
+    "f81a677d-7207-416a-aad7-695e64e9cd65": {
+      "ProjectGuid": "f81a677d-7207-416a-aad7-695e64e9cd65",
+      "DisplayName": "PSP03_Socket_TCP2_Server",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5501d1c4-7c38-400c-9da0-3502ded1485f": {
+      "ProjectGuid": "5501d1c4-7c38-400c-9da0-3502ded1485f",
+      "DisplayName": "PipeClient",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

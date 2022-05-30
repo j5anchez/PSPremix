@@ -1,0 +1,18 @@
+problemas surgidos:
+
+
+me he vuelto loco con IPAddress ipAddress = ipHostInfo.AddressList[3];
+
+ke los ifs tienen ke ir con else if, xk si pones if if if se ejecutan todos una y ortra vez
+
+
+hay 2 cosas sin sentido, ke pasen por consola el numero 0 y luego otra vez cliente:0 pero he kerido hacer igual ke el video(cuando ha sido otro el ke acierta)
+
+ke solo apareiera 1 vez en consola del servidor cuando un cliente perdedor seguia metiendo numeros
+
+
+
+ejercicio 2
+
+mayor problema
+mostrar al cliente directorio de guardado con                             string fs = ((System.IO.FileStream)fileStream).Name;

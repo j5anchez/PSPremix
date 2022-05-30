@@ -1,0 +1,6 @@
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\fileTransf\bin\Debug\fileTransf.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\fileTransf\bin\Debug\fileTransf.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\fileTransf\obj\Debug\fileTransf.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\fileTransf\obj\Debug\fileTransf.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\fileTransf\obj\Debug\fileTransf.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\pspud03p2\fileTransf\obj\Debug\fileTransf.pdb

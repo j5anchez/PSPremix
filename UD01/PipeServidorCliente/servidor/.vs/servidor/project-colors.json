@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e7f758f0-ac1d-4de6-a320-24e4a408117c": {
+      "ProjectGuid": "e7f758f0-ac1d-4de6-a320-24e4a408117c",
+      "DisplayName": "servidor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,15 @@
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\bin\Debug\net6.0\ServidorSencillo.exe
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\bin\Debug\net6.0\ServidorSencillo.deps.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\bin\Debug\net6.0\ServidorSencillo.runtimeconfig.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\bin\Debug\net6.0\ServidorSencillo.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\bin\Debug\net6.0\ref\ServidorSencillo.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\bin\Debug\net6.0\ServidorSencillo.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\obj\Debug\net6.0\ServidorSencillo.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\obj\Debug\net6.0\ServidorSencillo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\obj\Debug\net6.0\ServidorSencillo.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\obj\Debug\net6.0\ServidorSencillo.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\obj\Debug\net6.0\ServidorSencillo.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\obj\Debug\net6.0\ServidorSencillo.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\obj\Debug\net6.0\ref\ServidorSencillo.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\obj\Debug\net6.0\ServidorSencillo.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\ServidorSencillo\obj\Debug\net6.0\ServidorSencillo.genruntimeconfig.cache

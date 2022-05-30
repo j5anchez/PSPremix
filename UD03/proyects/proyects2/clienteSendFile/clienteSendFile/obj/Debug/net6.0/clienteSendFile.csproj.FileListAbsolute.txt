@@ -1,0 +1,15 @@
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\bin\Debug\net6.0\clienteSendFile.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\bin\Debug\net6.0\clienteSendFile.deps.json
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\bin\Debug\net6.0\clienteSendFile.runtimeconfig.json
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\bin\Debug\net6.0\clienteSendFile.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\bin\Debug\net6.0\clienteSendFile.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\obj\Debug\net6.0\clienteSendFile.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\obj\Debug\net6.0\clienteSendFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\obj\Debug\net6.0\clienteSendFile.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\obj\Debug\net6.0\clienteSendFile.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\obj\Debug\net6.0\clienteSendFile.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\obj\Debug\net6.0\clienteSendFile.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\obj\Debug\net6.0\refint\clienteSendFile.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\obj\Debug\net6.0\clienteSendFile.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\obj\Debug\net6.0\clienteSendFile.genruntimeconfig.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\clienteSendFile\clienteSendFile\obj\Debug\net6.0\ref\clienteSendFile.dll

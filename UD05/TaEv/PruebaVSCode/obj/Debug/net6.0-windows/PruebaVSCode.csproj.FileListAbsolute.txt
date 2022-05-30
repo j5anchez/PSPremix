@@ -1,0 +1,15 @@
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\bin\Debug\net6.0-windows\PruebaVSCode.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\bin\Debug\net6.0-windows\PruebaVSCode.deps.json
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\bin\Debug\net6.0-windows\PruebaVSCode.runtimeconfig.json
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\bin\Debug\net6.0-windows\PruebaVSCode.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\bin\Debug\net6.0-windows\PruebaVSCode.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\obj\Debug\net6.0-windows\PruebaVSCode.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\obj\Debug\net6.0-windows\PruebaVSCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\obj\Debug\net6.0-windows\PruebaVSCode.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\obj\Debug\net6.0-windows\PruebaVSCode.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\obj\Debug\net6.0-windows\PruebaVSCode.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\obj\Debug\net6.0-windows\PruebaVSCode.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\obj\Debug\net6.0-windows\refint\PruebaVSCode.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\obj\Debug\net6.0-windows\PruebaVSCode.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\obj\Debug\net6.0-windows\PruebaVSCode.genruntimeconfig.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PruebaVSCode\obj\Debug\net6.0-windows\ref\PruebaVSCode.dll

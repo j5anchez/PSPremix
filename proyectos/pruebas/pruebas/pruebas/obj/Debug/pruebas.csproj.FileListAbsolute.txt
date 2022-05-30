@@ -1,0 +1,16 @@
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\bin\Debug\pruebas.exe.config
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\bin\Debug\pruebas.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\bin\Debug\pruebas.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\obj\Debug\pruebas.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\obj\Debug\pruebas.csproj.SuggestedBindingRedirects.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\obj\Debug\pruebas.Properties.Resources.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\obj\Debug\pruebas.csproj.GenerateResource.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\obj\Debug\pruebas.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\obj\Debug\pruebas.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\obj\Debug\pruebas.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\obj\Debug\pruebas.Form1.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\proyectos\pruebas\pruebas\pruebas\obj\Debug\pruebas.csproj.CopyComplete

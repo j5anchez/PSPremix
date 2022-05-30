@@ -1,0 +1,15 @@
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\obj\Debug\net6.0\8febPruebaServer.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\obj\Debug\net6.0\8febPruebaServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\obj\Debug\net6.0\8febPruebaServer.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\obj\Debug\net6.0\8febPruebaServer.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\obj\Debug\net6.0\8febPruebaServer.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\bin\Debug\net6.0\8febPruebaServer.exe
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\bin\Debug\net6.0\8febPruebaServer.deps.json
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\bin\Debug\net6.0\8febPruebaServer.runtimeconfig.json
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\bin\Debug\net6.0\8febPruebaServer.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\bin\Debug\net6.0\ref\8febPruebaServer.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\bin\Debug\net6.0\8febPruebaServer.pdb
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\obj\Debug\net6.0\8febPruebaServer.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\obj\Debug\net6.0\ref\8febPruebaServer.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\obj\Debug\net6.0\8febPruebaServer.pdb
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\8febPruebaServer\obj\Debug\net6.0\8febPruebaServer.genruntimeconfig.cache

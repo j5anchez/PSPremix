@@ -1,0 +1,14 @@
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\bin\Release\netcoreapp3.1\pipeServidor.exe
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\bin\Release\netcoreapp3.1\pipeServidor.deps.json
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\bin\Release\netcoreapp3.1\pipeServidor.runtimeconfig.json
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\bin\Release\netcoreapp3.1\pipeServidor.runtimeconfig.dev.json
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\bin\Release\netcoreapp3.1\pipeServidor.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\bin\Release\netcoreapp3.1\pipeServidor.pdb
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.pdb
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\SolucionPractica\PSP01_TA01\PSP01_Calculadora_Entrega\PSP01\pipeServidor\obj\Release\netcoreapp3.1\pipeServidor.genruntimeconfig.cache

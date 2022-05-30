@@ -1,0 +1,15 @@
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\bin\Debug\net6.0\servidor.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\bin\Debug\net6.0\servidor.deps.json
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\bin\Debug\net6.0\servidor.runtimeconfig.json
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\bin\Debug\net6.0\servidor.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\bin\Debug\net6.0\servidor.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\obj\Debug\net6.0\servidor.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\obj\Debug\net6.0\servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\obj\Debug\net6.0\servidor.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\obj\Debug\net6.0\servidor.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\obj\Debug\net6.0\servidor.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\obj\Debug\net6.0\servidor.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\obj\Debug\net6.0\refint\servidor.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\obj\Debug\net6.0\servidor.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\obj\Debug\net6.0\servidor.genruntimeconfig.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\fileTransfer\servidor\obj\Debug\net6.0\ref\servidor.dll

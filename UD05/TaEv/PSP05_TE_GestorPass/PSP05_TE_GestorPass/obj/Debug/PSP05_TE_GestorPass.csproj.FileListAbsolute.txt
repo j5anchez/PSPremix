@@ -1,0 +1,11 @@
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP05_TE_GestorPass\PSP05_TE_GestorPass\bin\Debug\PSP05_Simetrico_Sustitucion.exe.config
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP05_TE_GestorPass\PSP05_TE_GestorPass\bin\Debug\PSP05_Simetrico_Sustitucion.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP05_TE_GestorPass\PSP05_TE_GestorPass\bin\Debug\PSP05_Simetrico_Sustitucion.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP05_TE_GestorPass\PSP05_TE_GestorPass\obj\Debug\PSP05_TE_GestorPass.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP05_TE_GestorPass\PSP05_TE_GestorPass\obj\Debug\PSP05_TE_GestorPass.csproj.SuggestedBindingRedirects.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP05_TE_GestorPass\PSP05_TE_GestorPass\obj\Debug\PSP05_TE_GestorPass.Form1.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP05_TE_GestorPass\PSP05_TE_GestorPass\obj\Debug\PSP05_Simetrico_Sustitucion.Properties.Resources.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP05_TE_GestorPass\PSP05_TE_GestorPass\obj\Debug\PSP05_TE_GestorPass.csproj.GenerateResource.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP05_TE_GestorPass\PSP05_TE_GestorPass\obj\Debug\PSP05_TE_GestorPass.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP05_TE_GestorPass\PSP05_TE_GestorPass\obj\Debug\PSP05_Simetrico_Sustitucion.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD05\TaEv\PSP05_TE_GestorPass\PSP05_TE_GestorPass\obj\Debug\PSP05_Simetrico_Sustitucion.pdb

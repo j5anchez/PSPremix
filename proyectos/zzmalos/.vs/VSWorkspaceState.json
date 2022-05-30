@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PipeClient",
+    "\\PipeClientLocal",
+    "\\PipeServer",
+    "\\PipeServerLocal"
+  ],
+  "SelectedNode": "\\PipeServer\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

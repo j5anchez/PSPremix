@@ -1,0 +1,34 @@
+********************************
+Aupa Itziar,
+
+Te escribo porque tengo algunas dudas en relación con la tarea/ud/ lo que sea x. La primera es si es posible instalar paquetes nuggets. En concreto... (Añade lo que tengas que añadir).
+
+Por otra parte, ¿es necesario listar las carpetas también? 
+
+Finalmente, ¿el error en los campos....?
+
+Quedo a la espera de tu respuesta. Eskerrik asko.
+********************************
+
+
+preguntar:
+
+se pueden instalar paquetes nuggets? Microsoft.WindowsAPICodePack.Dialogs; para abrir dialog de seleccionar carpeta
+si da problemas quitar en opciones de packet manager en origines del paquete "https://packagesource"
+
+
+hay que listar las carpetas tambien?
+
+
+el error en los campos tiene ke detectar una letra mal escrita en alguno de los campos especificando cual o solo detecta el fallo si el campo esta vacio?
+
+
+a destacar:
+
+se actualizan los elementos al abrir lista despegable
+
+
+problemas psp ud04:
+
+
+actualizar textbox con detalle y combo box sin detalle

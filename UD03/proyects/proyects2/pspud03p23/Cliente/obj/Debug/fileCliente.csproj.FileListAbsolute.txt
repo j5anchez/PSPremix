@@ -1,0 +1,8 @@
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\pspud03p23\Cliente\obj\Debug\fileCliente.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\pspud03p23\Cliente\obj\Debug\fileCliente.csproj.SuggestedBindingRedirects.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\pspud03p23\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\pspud03p23\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\pspud03p23\Cliente\obj\Debug\fileCliente.csproj.GenerateResource.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\pspud03p23\Cliente\obj\Debug\fileCliente.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\pspud03p23\Cliente\obj\Debug\Cliente.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD03\proyects\proyects2\pspud03p23\Cliente\obj\Debug\Cliente.pdb

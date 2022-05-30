@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ServidorSencillo",
+    "\\zzmalos",
+    "\\zzmalos\\PipeClient",
+    "\\zzmalos\\PipeClientLocal",
+    "\\zzmalos\\PipeServerLocal"
+  ],
+  "SelectedNode": "\\zzmalos\\PipeServerLocal\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,16 @@
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\bin\Release\netcoreapp2.1\win-x64\pipesServidor.exe
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\bin\Release\netcoreapp2.1\win-x64\pipesServidor.deps.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\bin\Release\netcoreapp2.1\win-x64\pipesServidor.runtimeconfig.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\bin\Release\netcoreapp2.1\win-x64\pipesServidor.runtimeconfig.dev.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\bin\Release\netcoreapp2.1\win-x64\pipesServidor.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\bin\Release\netcoreapp2.1\win-x64\pipesServidor.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\obj\Release\netcoreapp2.1\win-x64\pipesServidor.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\obj\Release\netcoreapp2.1\win-x64\pipesServidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\obj\Release\netcoreapp2.1\win-x64\pipesServidor.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\obj\Release\netcoreapp2.1\win-x64\pipesServidor.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\obj\Release\netcoreapp2.1\win-x64\pipesServidor.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\obj\Release\netcoreapp2.1\win-x64\pipesServidor.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\obj\Release\netcoreapp2.1\win-x64\pipesServidor.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\Github\pipesServidor\obj\Release\netcoreapp2.1\win-x64\pipesServidor.genruntimeconfig.cache

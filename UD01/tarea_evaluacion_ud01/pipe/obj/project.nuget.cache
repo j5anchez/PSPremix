@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "eL+weT6PSyX6hU8guD4Y0MwCysQNGcLtZAF+qTsFKBiYc77PK+5FOtnKeJ0GE1c1jCTftmmMAzZqeG4BX3NW9w==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\34603\\Desktop\\trabajosDAM\\PSP\\Github\\pipe\\pipe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\34603\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\34603\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\34603\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\34603\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\34603\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\34603\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\34603\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

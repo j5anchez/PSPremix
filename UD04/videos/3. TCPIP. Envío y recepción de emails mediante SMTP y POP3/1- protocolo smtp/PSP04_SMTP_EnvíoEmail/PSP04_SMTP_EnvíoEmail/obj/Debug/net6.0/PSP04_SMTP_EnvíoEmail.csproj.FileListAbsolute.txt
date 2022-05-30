@@ -1,0 +1,44 @@
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\PSP04_SMTP_EnvíoEmail.exe
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\PSP04_SMTP_EnvíoEmail.deps.json
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\PSP04_SMTP_EnvíoEmail.runtimeconfig.json
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\PSP04_SMTP_EnvíoEmail.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\ref\PSP04_SMTP_EnvíoEmail.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\PSP04_SMTP_EnvíoEmail.pdb
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.csproj.AssemblyReference.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.AssemblyInfoInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.AssemblyInfo.cs
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.csproj.CoreCompileInputs.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\ref\PSP04_SMTP_EnvíoEmail.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.pdb
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.genruntimeconfig.cache
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\MailKit.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\MimeKit.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\ulhi\source\repos\PSP\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\PSP04_SMTP_EnvíoEmail.exe
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\PSP04_SMTP_EnvíoEmail.deps.json
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\PSP04_SMTP_EnvíoEmail.runtimeconfig.json
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\PSP04_SMTP_EnvíoEmail.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\PSP04_SMTP_EnvíoEmail.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\MailKit.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\MimeKit.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.csproj.CopyComplete
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\refint\PSP04_SMTP_EnvíoEmail.dll
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.pdb
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\PSP04_SMTP_EnvíoEmail.genruntimeconfig.cache
+C:\Users\34603\Desktop\trabajosDAM\_PSP\UD04\videos\3. TCPIP. Envío y recepción de emails mediante SMTP y POP3\1- protocolo smtp\PSP04_SMTP_EnvíoEmail\PSP04_SMTP_EnvíoEmail\obj\Debug\net6.0\ref\PSP04_SMTP_EnvíoEmail.dll

@@ -1,0 +1,30 @@
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\bin\Debug\net6.0\cliente.exe
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\bin\Debug\net6.0\cliente.deps.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\bin\Debug\net6.0\cliente.runtimeconfig.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\bin\Debug\net6.0\cliente.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\bin\Debug\net6.0\ref\cliente.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\bin\Debug\net6.0\cliente.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\obj\Debug\net6.0\cliente.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\obj\Debug\net6.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\obj\Debug\net6.0\cliente.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\obj\Debug\net6.0\cliente.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\obj\Debug\net6.0\cliente.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\obj\Debug\net6.0\cliente.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\obj\Debug\net6.0\ref\cliente.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\obj\Debug\net6.0\cliente.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\cliente\obj\Debug\net6.0\cliente.genruntimeconfig.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\bin\Debug\net6.0\cliente.exe
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\bin\Debug\net6.0\cliente.deps.json
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\bin\Debug\net6.0\cliente.runtimeconfig.json
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\bin\Debug\net6.0\cliente.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\bin\Debug\net6.0\ref\cliente.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\bin\Debug\net6.0\cliente.pdb
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\obj\Debug\net6.0\cliente.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\obj\Debug\net6.0\cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\obj\Debug\net6.0\cliente.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\obj\Debug\net6.0\cliente.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\obj\Debug\net6.0\cliente.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\obj\Debug\net6.0\cliente.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\obj\Debug\net6.0\ref\cliente.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\obj\Debug\net6.0\cliente.pdb
+C:\Users\34603\Desktop\trabajosDAM\PSP\UD01\PipeServidorCliente\cliente\obj\Debug\net6.0\cliente.genruntimeconfig.cache

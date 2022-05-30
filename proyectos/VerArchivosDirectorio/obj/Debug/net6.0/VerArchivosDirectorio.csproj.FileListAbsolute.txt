@@ -1,0 +1,15 @@
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\bin\Debug\net6.0\VerArchivosDirectorio.exe
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\bin\Debug\net6.0\VerArchivosDirectorio.deps.json
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\bin\Debug\net6.0\VerArchivosDirectorio.runtimeconfig.json
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\bin\Debug\net6.0\VerArchivosDirectorio.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\bin\Debug\net6.0\ref\VerArchivosDirectorio.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\bin\Debug\net6.0\VerArchivosDirectorio.pdb
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\obj\Debug\net6.0\VerArchivosDirectorio.csproj.AssemblyReference.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\obj\Debug\net6.0\VerArchivosDirectorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\obj\Debug\net6.0\VerArchivosDirectorio.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\obj\Debug\net6.0\VerArchivosDirectorio.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\obj\Debug\net6.0\VerArchivosDirectorio.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\obj\Debug\net6.0\VerArchivosDirectorio.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\obj\Debug\net6.0\ref\VerArchivosDirectorio.dll
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\obj\Debug\net6.0\VerArchivosDirectorio.pdb
+C:\Users\34603\Desktop\trabajosDAM\PSP\proyectos\VerArchivosDirectorio\obj\Debug\net6.0\VerArchivosDirectorio.genruntimeconfig.cache

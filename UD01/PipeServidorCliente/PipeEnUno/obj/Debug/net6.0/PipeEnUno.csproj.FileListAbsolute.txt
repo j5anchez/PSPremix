@@ -1,0 +1,15 @@
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\bin\Debug\net6.0\PipeEnUno.exe
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\bin\Debug\net6.0\PipeEnUno.deps.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\bin\Debug\net6.0\PipeEnUno.runtimeconfig.json
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\bin\Debug\net6.0\PipeEnUno.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\bin\Debug\net6.0\ref\PipeEnUno.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\bin\Debug\net6.0\PipeEnUno.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\obj\Debug\net6.0\PipeEnUno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\obj\Debug\net6.0\PipeEnUno.AssemblyInfoInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\obj\Debug\net6.0\PipeEnUno.AssemblyInfo.cs
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\obj\Debug\net6.0\PipeEnUno.csproj.CoreCompileInputs.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\obj\Debug\net6.0\PipeEnUno.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\obj\Debug\net6.0\ref\PipeEnUno.dll
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\obj\Debug\net6.0\PipeEnUno.pdb
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\obj\Debug\net6.0\PipeEnUno.genruntimeconfig.cache
+C:\Users\34603\Desktop\trabajos DAM\PSP\proyectos\PipeEnUno\obj\Debug\net6.0\PipeEnUno.csproj.AssemblyReference.cache
